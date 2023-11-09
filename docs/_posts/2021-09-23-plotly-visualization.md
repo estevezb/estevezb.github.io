@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Plotly Visualization"
 date: 2023-11-09
 categories:
