@@ -17,6 +17,7 @@ import plotly.graph_objects as go
 # Create a list of box traces, one for each year
 traces = []
 # ... rest of the code
+```
 
 Here's an interactive visualization of annual total amounts by year:
 
