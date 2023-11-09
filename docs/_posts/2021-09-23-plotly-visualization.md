@@ -12,4 +12,4 @@ tags:
 
 Here's an interactive visualization of annual total amounts by year:
 
-<!-- Your HTML for the Plotly graph will go here -->
+{% include plotly_graph.html %}
